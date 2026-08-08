@@ -1,8 +1,8 @@
 # Diabetes-Prediction-ML-Model
 
 A Complete, Step-by-Step Teaching Notebook (with the Math Explained)
-What you will learn in this notebook:
 
+What you will learn in this notebook:<br>
 How to load, clean and explore a real medical dataset
 The mathematics behind 5 classification algorithms:
 Logistic Regression
